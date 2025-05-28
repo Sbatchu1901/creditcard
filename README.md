@@ -29,9 +29,11 @@ The dataset used is from [Kaggle – Credit Card Fraud Detection](https://www.ka
 git clone https://github.com/sbatchu1901/creditcard.git
 cd creditcard
 pip install -r requirements.txt
-
-------------------------
-### 📊 Model Performance
+'''
+---
+##
+### '''
+ 📊 Model Performance
 
 | Model               | Accuracy | Precision (Fraud) | Recall (Fraud) | ROC AUC |
 |--------------------|----------|-------------------|----------------|---------|
